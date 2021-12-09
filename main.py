@@ -1,0 +1,7 @@
+print('Kuru no uzdevumiem vēlies realizēt')
+print('Izvēlies ciparu')
+print('1 - pirmo uzdevumu')
+print('2 - otro uzdevumu')
+print('3 - trešo uzdevumu')
+print('____________________')
+print('Tu es izvēlējies uzdevumu nr. ')
